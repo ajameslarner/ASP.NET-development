@@ -1,0 +1,13 @@
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\project_gnome.dll.config
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\project_gnome.dll
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\project_gnome.pdb
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\project_gnome.xml
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.vbprojResolveAssemblyReference.cache
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.Resources.resources
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.vbproj.GenerateResource.Cache
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.vbproj.CoreCompileInputs.cache
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.dll
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.xml
+H:\Uni\Databases\A Gnome's Life\project_gnome\project_gnome\obj\Release\project_gnome.pdb
